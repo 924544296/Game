@@ -1,0 +1,5 @@
+
+conda activate RL
+cd I:\python\code\planegame
+i:
+python plane_main.py
